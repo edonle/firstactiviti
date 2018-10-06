@@ -15,6 +15,7 @@ import org.junit.Test;
 
 public class ProcessTestMyProcess {
 
+	//Caracteres especiais...
 	private String filename = "C:\\Users\\Edson.ELNODE\\eclipse-jee-oxygen-workspace\\firstactiviti\\MyProcess.bpmn";
 
 	@Rule
